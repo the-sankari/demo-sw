@@ -2,4 +2,31 @@
 
 - Created new repository on github named 'demo-sw'
 - Created new folder for the repository with same name
--
+- Initialize the local repository
+
+  ```
+  git init
+  ```
+
+- Add an item for commit
+  ```
+  git add READDME.md
+  ```
+- Commit with a commit message
+
+  ```
+  git commit -m "Readme file and initial commit"
+  ```
+
+- Change branch from master to main
+  ```
+  git branch -M main
+  ```
+- Connect local repository with the remote repository
+  ```
+  git remote add git@github.com:the-sankari/demo-sw.git
+  ```
+- Push to the main branch of the remote repository
+  ```
+  git push origin main
+  ```
