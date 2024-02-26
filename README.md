@@ -31,3 +31,10 @@
   git push origin main
   ```
 - Changes made in the remote repository
+
+- Git new branch
+  ```
+  git checkout -b <new_branch_name>
+  ```
+
+  
