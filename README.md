@@ -36,5 +36,7 @@
   ```
   git checkout -b <new_branch_name>
   ```
-
-  
+- Git merging
+  ```
+  git merge <new_branch_name>
+  ```
